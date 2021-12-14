@@ -1,2 +1,2 @@
-# scilearn-datasci.github.io
+# science-of-learning-data-science.github.io
 course website
