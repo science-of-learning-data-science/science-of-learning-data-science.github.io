@@ -17,7 +17,7 @@ It is impossible to understand the modern world without an understanding of stat
 
 ## What will you be doing in this course?
 
-This is an advanced seminar and lab course on the science of learning as applied to statistical concepts & data science skills that are commonly used in modern psychological research. This course provides a scaffolded introduction to core statistical concepts and the use of R, a widely used statistical programming language. As part of the lab assignments and final project, you will work in groups to analyze real-world data and communicate your findings using the tools you have learned in the course. You will also have the opportunity to engage with the contemporary research literature on the teaching and learning of statistical reasoning. 
+This is a rigorous seminar and lab course on the science of learning as applied to statistical concepts & data science skills that are commonly used in modern psychological research. This course provides a scaffolded introduction to core statistical concepts and the use of R, a widely used statistical programming language. As part of the lab assignments and final project, you will work in groups to analyze real-world data and communicate your findings using the tools you have learned in the course. You will also have the opportunity to engage with the contemporary research literature on the teaching and learning of statistical reasoning. 
 
 Each week you will have come prepared by having completed the assigned CourseKata modules and/or posted thoughtful entries on the assigned research articles to the course Slack workspace. In class, we will generally spend our time working in small groups on lab assignments to practice the concepts/skills you learned in the CourseKata modules, as well as working towards your final research project milestones. 
 
@@ -55,15 +55,15 @@ While we will be meeting for class in person by default, it is possible that we 
 ### Website (you are already here!)
 You can always find the latest information about this class on the course website: [https://science-of-learning-data-science.github.io/](https://science-of-learning-data-science.github.io/). 
 
-## What are the activities involved in this class?
+## What are the graded activities in this class?
 
-### CourseKata
+### CourseKata Modules
 * Chapter sections will be assigned from "CourseKata Statistics and Data Science," a free online and interactive textbook developed by [Ji Son](https://www.calstatela.edu/faculty/ji-son) and [James Stigler](https://www.psych.ucla.edu/faculty/page/stigler), together with their colleagues in the [UCLA Teaching and Learning Lab](https://uclatall.com/). 
 * Unlike a traditional textbook, you will be asked questions throughout each chapter. To receive full credit for the CourseKata portion of your grade, you are responsible for making good-faith attempts to answer all of the questions embedded in the assigned chapter sections *prior* to each lecture as listed in the schedule. 
 * Your responses do not need to be correct to receive full credit -- the purpose of working on the embedded questions/problems is to help you learn. Your responses to these questions will be reviewed when determining your final CourseKata grade.
 * We advise that you budget approximately 4-6 hours per week working through these CourseKata chapters.
 
-### Labs
+### Lab Assignments
 * Most of our synchronous class time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the Coursekata reading that was assigned for that week.
 * Most of our synchronous 'lecture' time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the CourseKata modules assigned for that day.
 * All parts of each lab must be submitted via DataHub by 11:59pm PT on the due date listed on the course schedule to receive full credit.
@@ -78,8 +78,6 @@ You can always find the latest information about this class on the course websit
 ### Final Project
 * You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
 * As part of this project, you will get to analyze real classroom data from a data science course, engage with research articles, and report your findings in a group  presentation during finals week. Attendance and participation in the final project showcase is mandatory and will count toward the final project grade.
-
-### Paper Discussions
 
 #### Theme 1: Graph comprehension (Jan. 21)
 * [Franconeri, S. L. (2021). Three Perceptual Tools for Seeing and Understanding Visualized Data. Current Directions in Psychological Science, 30(5), 367–375.](https://drive.google.com/open?id=1HWNbMRBSe_CfyojZlR376N1U-SDJb0fn&authuser=jefan%40ucsd.edu&usp=drive_fs) 
