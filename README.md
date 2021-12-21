@@ -10,7 +10,6 @@
 | Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM | McGill 5141 |
 | Keeshia Kamura | TA | TBD | TBD | TBD |
 
-
 ## Why take this course?
 
 It is impossible to understand the modern world without an understanding of statistics.  From public opinion polls to clinical trials in medicine to online systems that recommend purchases to us, statistics play a role in nearly every aspect of our lives. The goal of this course is to provide an understanding of essential concepts in statistics --- how to construct models to explain variation in data --- as well as the skills to apply these concepts to real data.
