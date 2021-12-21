@@ -5,10 +5,10 @@
 | ------ | ----- | ----- | ----- |
 | Winter 2022 | Fridays 9:30AM-11:30AM  | Fridays 11:30AM-12:20PM | Mandler Hall 1539 |
 
-| **Name** | **Role** | **Email** | **Office Hours** | 
+| **Name** | **Role** | **Email** | **Office Hours** | **Office**
 | ------ | ----- | ----- | ----- |
-| Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM |
-| Keeshia Kamura | TA | TBD | TBD |
+| Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM | McGill 5141 |
+| Keeshia Kamura | TA | TBD | TBD | TBD |
 
 
 ## Why take this course?
@@ -97,7 +97,7 @@ You can always find the latest information about this class on the course websit
 
 ## Schedule
 
-| | CourseKata (before class) | Labs (in class) | Papers (before class) | Project (in class) |
+| | **CourseKata (before class)** | **Labs (in class)** | **Papers (before class)** | **Project (in class)** |
 | ----- | ----- | ----- | ----- | ----- |
 | Week 1 (Jan 7) | Chapters 0, 1, 2 | Lab 1: Exploring data (due 1/14) | - | - |  
 | Week 2 (Jan 14) | Chapters 3, 4| Lab 2: Visualizing data (due 1/21) | - | - |
