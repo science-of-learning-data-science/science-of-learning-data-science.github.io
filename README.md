@@ -1,5 +1,5 @@
 
-# PSYC 193: Science of Learning Data Science
+## Basic course information
 
 | **Quarter**| **Lecture** | **Lab** | **Location** | 
 | ------ | ----- | ----- | ----- |
