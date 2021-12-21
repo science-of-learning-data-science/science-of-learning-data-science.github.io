@@ -58,16 +58,12 @@ You can always find the latest information about this class on the course websit
 ## What are the activities involved in this class?
 
 ### CourseKata
-Chapter sections will be assigned from "CourseKata Statistics and Data Science," a free online and interactive textbook developed by [Ji Son](https://www.calstatela.edu/faculty/ji-son) and [James Stigler](https://www.psych.ucla.edu/faculty/page/stigler), together with their colleagues in the [UCLA Teaching and Learning Lab](https://uclatall.com/). 
-
-Unlike a traditional textbook, you will be asked questions throughout each chapter. To receive full credit for the CourseKata portion of your grade, you are responsible for making good-faith attempts to answer all of the questions embedded in the assigned chapter sections *prior* to each lecture as listed in the schedule. 
-
-Your responses do not need to be correct to receive full credit -- the purpose of working on the embedded questions/problems is to help you learn. Your responses to these questions will be reviewed when determining your final CourseKata grade.
-
-We advise that you budget approximately 4-6 hours per week working through these CourseKata chapters.
+* Chapter sections will be assigned from "CourseKata Statistics and Data Science," a free online and interactive textbook developed by [Ji Son](https://www.calstatela.edu/faculty/ji-son) and [James Stigler](https://www.psych.ucla.edu/faculty/page/stigler), together with their colleagues in the [UCLA Teaching and Learning Lab](https://uclatall.com/). 
+* Unlike a traditional textbook, you will be asked questions throughout each chapter. To receive full credit for the CourseKata portion of your grade, you are responsible for making good-faith attempts to answer all of the questions embedded in the assigned chapter sections *prior* to each lecture as listed in the schedule. 
+* Your responses do not need to be correct to receive full credit -- the purpose of working on the embedded questions/problems is to help you learn. Your responses to these questions will be reviewed when determining your final CourseKata grade.
+* We advise that you budget approximately 4-6 hours per week working through these CourseKata chapters.
 
 ### Labs
-
 * Most of our synchronous class time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the Coursekata reading that was assigned for that week.
 * Most of our synchronous 'lecture' time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the CourseKata modules assigned for that day.
 * All parts of each lab must be submitted via DataHub by 11:59pm PT on the due date listed on the course schedule to receive full credit.
@@ -75,6 +71,9 @@ We advise that you budget approximately 4-6 hours per week working through these
 * On very rare occasions, excused late submissions may be accepted if there is a medical/family emergency or bona fide religious conflict. Requests to submit these assignments late without penalty must be accompanied by documentation sent via email to Dr. Fan.
 * Lab assignments will be graded for completion and accuracy; however, demonstration of effort during class can attending your TA’s office hours may positively impact your lab grade, even when there are inaccuracies.
 * Honor Code: Unless otherwise stated, you can use any published resource you wish to complete the assignments (textbook, Internet, etc). You should also feel free to discuss the assignments with your classmates. However, you should not explicitly share answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
+
+### Paper Discussions
+* **TBD**
 
 ### Final Project
 * You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
