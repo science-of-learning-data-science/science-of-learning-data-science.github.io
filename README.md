@@ -72,7 +72,13 @@ You can always find the latest information about this class on the course websit
 * Honor Code: Unless otherwise stated, you can use any published resource you wish to complete the assignments (textbook, Internet, etc). You should also feel free to discuss the assignments with your classmates. However, you should not explicitly share answers with your fellow students in person or electronically unless instructed to do so by the instructors; sharing answers (including computer code) will be viewed as a violation of the Honor Code.
 
 ### Paper Discussions
-* **TBD**
+* You will have the opportunity to read research articles that connect to the statistical concepts covered in this class. 
+* These articles have been grouped into four "themes": graph comprehension, reasoning about data-generating processes, teaching model-based reasoning, and open/reproducible science. 
+* Each week that these papers are assigned, you will be asked to submit two 1-page response papers, one for each assigned article. These response papers should be submitted via Canvas before 
+* Each response paper should contain the following sections: 
+	- **Summary**: Provide a high-level summary of the article in your own words. What was the key question the authors aimed to answer? What was their argument? Do not quote the article directly when writing your own summary. 
+	- **Relationship to SOLDS**: How is this paper related to the concepts/skills covered in this class? What are some ideas/findings in the paper that go beyond what has been covered so far in this class?
+	- **Relevance outside of SOLDS**: How do the ideas/findings in this paper relate to life outside of class, either from your own experience or events in the wider world? 
 
 ### Final Project
 * You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
