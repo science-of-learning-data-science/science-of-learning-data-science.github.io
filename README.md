@@ -141,6 +141,6 @@ For clear violations of course expectations for professional and respectful cond
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to a member of the teaching team. If you are not comfortable approaching the teaching team, you may also contact the [UC San Diego Office of the Ombuds](https://ombuds.ucsd.edu/).
 
 ## Acknowledgements
-Many thanks to [Ji Son](https://www.calstatela.edu/faculty/ji-son), [James Stigler](https://www.psych.ucla.edu/faculty/page/stigler), everyone in the [UCLA Teaching and Learning Lab](https://uclatall.com/), [Prof. Russ Poldrack](https://profiles.stanford.edu/russell-poldrack), [Prof. Tobias Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg/), and [Amy Fox](https://madebyafox.github.io/) for generously sharing their instructional materials. 
+Many thanks to [Ji Son](https://www.calstatela.edu/faculty/ji-son), [Jim Stigler](https://www.psych.ucla.edu/faculty/page/stigler), everyone in the [UCLA Teaching and Learning Lab](https://uclatall.com/), [Russ Poldrack](https://profiles.stanford.edu/russell-poldrack), [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg/), and [Amy Fox](https://madebyafox.github.io/) for generously sharing their instructional materials. 
 
 
