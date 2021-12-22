@@ -22,7 +22,7 @@ Each week you will have come prepared by having completed the assigned CourseKat
 
 ## What happens after you finish this course? 
 
-By taking this course, you are also contributing to improvements in the way that introductory statistics and data science skills are taught in Psychology at UCSD. Finally, this course provides excellent preparation for an opportunity to serve as an Instructional Assistant in Dr. Fan’s PSYC 60 course in Spring 2022.
+By taking this course, you are also contributing to improvements in the way that introductory statistics and data science skills are taught in Psychology at UCSD. In addition, this course provides excellent preparation for an opportunity to serve as an Instructional Assistant in Dr. Fan’s PSYC 60 course in Spring 2022.
 
 ## What do we expect from you? 
 
