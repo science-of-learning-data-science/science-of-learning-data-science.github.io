@@ -16,9 +16,13 @@ It is impossible to understand the modern world without an understanding of stat
 
 ## What will you be doing in this course?
 
-This is a rigorous seminar and lab course on the science of learning as applied to statistical concepts & data science skills that are commonly used in modern psychological research. This course provides a scaffolded introduction to core statistical concepts and the use of R, a widely used statistical programming language. As part of the lab assignments and final project, you will work in groups to analyze real-world data and communicate your findings using the tools you have learned in the course. You will also have the opportunity to engage with the contemporary research literature on the teaching and learning of statistical reasoning. 
+This is an advanced seminar and lab course on the science of learning as applied to statistical concepts & data science skills that are commonly used in modern psychological research. This course provides fast-paced engagement with core statistical concepts and the use of R, a widely used statistical programming language. As part of the lab assignments and final project, you will work in groups to analyze real-world data and communicate your findings using the tools you have learned in the course. You will also have the opportunity to engage with the contemporary research literature on the teaching and learning of statistical reasoning. 
 
 Each week you will have come prepared by having completed the assigned CourseKata modules and/or posted thoughtful entries on the assigned research articles to the course Slack workspace. In class, we will generally spend our time working in small groups on lab assignments to practice the concepts/skills you learned in the CourseKata modules, as well as working towards your final research project milestones. 
+
+## What kind of preparation is expected for this course?
+
+There were no formal prerequisites listed for this course, but that was an oversight on my part. It is generally expected that you have already taken PSYC 60: Introduction to Statistics (or equivalent) and PSYC 70: Research Methods (or equivalent). No prior programming experience in R or any other language is necessary. Regardless of what level of previous experience you have with statistics, data science, and/or progrmaming, you will likely have a more rewarding experience if you are coming to class with an open mind, a willingness to invest time to learn from one another and be challenged, and are genuinely interested in data science and/or how people learn.
 
 ## What happens after you finish this course? 
 
