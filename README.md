@@ -89,20 +89,20 @@ You can always find the latest information about this class on the course websit
 * As part of this project, you will get to analyze real classroom data from a data science course, engage with research articles, and report your findings in a group  presentation during finals week. Attendance and participation in the final project showcase is mandatory and will count toward the final project grade.
 
 #### Theme 1: Graph comprehension (Jan. 21)
-* [Franconeri, S. L. (2021). Three Perceptual Tools for Seeing and Understanding Visualized Data. Current Directions in Psychological Science, 30(5), 367–375.](https://drive.google.com/open?id=1HWNbMRBSe_CfyojZlR376N1U-SDJb0fn&authuser=jefan%40ucsd.edu&usp=drive_fs) 
-* [Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. Educational Psychology Review, 14(1), 47–69.](https://drive.google.com/open?id=1HMXp-VsgoroTLCPfnlt-_A1xC38ZpazM&authuser=jefan%40ucsd.edu&usp=drive_fs)
+* [Franconeri, S. L. (2021). Three Perceptual Tools for Seeing and Understanding Visualized Data. Current Directions in Psychological Science, 30(5), 367–375.](https://drive.google.com/open?id=1HWNbMRBSe_CfyojZlR376N1U-SDJb0fn&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"} 
+* [Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. Educational Psychology Review, 14(1), 47–69.](https://drive.google.com/open?id=1HMXp-VsgoroTLCPfnlt-_A1xC38ZpazM&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"}
 
 #### Theme 2: Reasoning about data-generating processes (Feb. 4)
-* [Kerns, S. H., & Wilmer, J. B. (2021). Two Graphs Walk into a Bar: Readout-based Measurement Reveals the Bar-tip Limit Error, a Common, Categorical Misinterpretation of Mean Bar Graphs. OSF Preprints.](https://osf.io/ng9dz/)
-* [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://link.springer.com/content/pdf/10.1007/978-3-030-03472-6_1.pdf)
+* [Kerns, S. H., & Wilmer, J. B. (2021). Two Graphs Walk into a Bar: Readout-based Measurement Reveals the Bar-tip Limit Error, a Common, Categorical Misinterpretation of Mean Bar Graphs. OSF Preprints.](https://osf.io/ng9dz/){:target="_blank" rel="noopener"}
+* [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://link.springer.com/content/pdf/10.1007/978-3-030-03472-6_1.pdf){:target="_blank" rel="noopener"}
 
 #### Theme 3: Teaching and learning model-based reasoning (Feb. 18)
-* [Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2020). Modeling First: Applying Learning Science to the Teaching of Introductory Statistics. Journal of Statistics Education, 1-23.](https://uclatall.com/pdfs/Son%20et%20al.%202020%20Modeling%20First%20PREPRINT.pdf)
-* [Rodgers, J. L. (2010). The epistemology of mathematical and statistical modeling: a quiet methodological revolution. American Psychologist, 65(1), 1.](https://drive.google.com/file/d/1GZaQj49xLohgmeWVxz6qt_LxOypnpP3j/view?usp=sharing)
+* [Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2020). Modeling First: Applying Learning Science to the Teaching of Introductory Statistics. Journal of Statistics Education, 1-23.](https://uclatall.com/pdfs/Son%20et%20al.%202020%20Modeling%20First%20PREPRINT.pdf){:target="_blank" rel="noopener"}
+* [Rodgers, J. L. (2010). The epistemology of mathematical and statistical modeling: a quiet methodological revolution. American Psychologist, 65(1), 1.](https://drive.google.com/file/d/1GZaQj49xLohgmeWVxz6qt_LxOypnpP3j/view?usp=sharing){:target="_blank" rel="noopener"}
 
 #### Theme 4: Open and reproducible science (Mar. 4)
-* [Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251).](https://drive.google.com/file/d/1HbWI9R13RfBny9r-9q7i6BpLQxdmfL1O/view?usp=sharing)
-* [Hardwicke, T. E., Wallach, J. D., Kidwell, M. C., Bendixen, T., Crüwell, S., & Ioannidis, J. P. (2020). An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014–2017). Royal Society Open Science, 7(2), 190806.](https://drive.google.com/file/d/1GuTsF8O3fILF52vX0QQEy7lzeQrr2pyD/view?usp=sharing)
+* [Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251).](https://drive.google.com/file/d/1HbWI9R13RfBny9r-9q7i6BpLQxdmfL1O/view?usp=sharing){:target="_blank" rel="noopener"}
+* [Hardwicke, T. E., Wallach, J. D., Kidwell, M. C., Bendixen, T., Crüwell, S., & Ioannidis, J. P. (2020). An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014–2017). Royal Society Open Science, 7(2), 190806.](https://drive.google.com/file/d/1GuTsF8O3fILF52vX0QQEy7lzeQrr2pyD/view?usp=sharing){:target="_blank" rel="noopener"}
 
 ## Schedule
 

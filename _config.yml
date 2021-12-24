@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: PSYC 193L - Science of Learning Data Science (SOLDS)
-description: Prof. Judith Fan
+markdown: kramdown
+title: PSYC 193L | Science of Learning Data Science (SOLDS)
+description: Prof. Judith Fan (UC San Diego)
