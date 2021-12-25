@@ -93,7 +93,7 @@ You can always find the latest information about this class on the course websit
 * [Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. Educational Psychology Review, 14(1), 47–69.](https://drive.google.com/open?id=1HMXp-VsgoroTLCPfnlt-_A1xC38ZpazM&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"}
 
 #### Theme 2: Reasoning about data-generating processes (Feb. 4)
-* [Kerns, S. H., & Wilmer, J. B. (2021). Two Graphs Walk into a Bar: Readout-based Measurement Reveals the Bar-tip Limit Error, a Common, Categorical Misinterpretation of Mean Bar Graphs. OSF Preprints.](https://osf.io/ng9dz/){:target="_blank" rel="noopener"}
+* [Tintle, N., Chance, B., Cobb, G., Roy, S., Swanson, T., & VanderStoep, J. (2015). Combating anti-statistical thinking using simulation-based methods throughout the undergraduate curriculum. The American Statistician, 69(4), 362-370.](https://drive.google.com/open?id=1HchVLAZGsWce2vZqwoWiRifL3hE4a5ta&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"}
 * [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://link.springer.com/content/pdf/10.1007/978-3-030-03472-6_1.pdf){:target="_blank" rel="noopener"}
 
 #### Theme 3: Teaching and learning model-based reasoning (Feb. 18)
