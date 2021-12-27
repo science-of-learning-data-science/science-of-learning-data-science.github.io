@@ -77,16 +77,12 @@ You can always find the latest information about this class on the course websit
 
 ### Paper Discussions
 * You will have the opportunity to read research articles that connect to the statistical concepts covered in this class. 
-* These articles have been grouped into four "themes": graph comprehension, reasoning about data-generating processes, teaching model-based reasoning, and open/reproducible science. 
+* These articles have been grouped into four "themes": graph comprehension, data-generating processes, model-based reasoning, and open/reproducible science. 
 * Each week that these papers are assigned, you will be asked to submit two 1-page response papers, one for each assigned article. These response papers should be submitted via Canvas before class.  
 * Each response paper should contain the following sections: 
 	- **Summary**: Provide a high-level summary of the article in your own words. What was the key question the authors aimed to answer? What was their argument? Do not quote the article directly when writing your own summary. 
 	- **Relationship to SOLDS**: How is this paper related to the concepts/skills covered in this class? What are some ideas/findings in the paper that go beyond what has been covered so far in this class?
 	- **Relevance outside of SOLDS**: How do the ideas/findings in this paper relate to life outside of class, either from your own experience or events in the wider world? 
-
-### Final Project
-* You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
-* As part of this project, you will get to analyze real classroom data from a data science course, engage with research articles, and report your findings in a group  presentation during finals week. Attendance and participation in the final project showcase is mandatory and will count toward the final project grade.
 
 #### Theme 1: Graph comprehension (Jan. 21)
 * [Franconeri, S. L. (2021). Three Perceptual Tools for Seeing and Understanding Visualized Data. Current Directions in Psychological Science, 30(5), 367–375.](https://drive.google.com/open?id=1HWNbMRBSe_CfyojZlR376N1U-SDJb0fn&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"} 
@@ -103,6 +99,10 @@ You can always find the latest information about this class on the course websit
 #### Theme 4: Open and reproducible science (Mar. 4)
 * [Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251).](https://drive.google.com/file/d/1HbWI9R13RfBny9r-9q7i6BpLQxdmfL1O/view?usp=sharing){:target="_blank" rel="noopener"}
 * [Hardwicke, T. E., Wallach, J. D., Kidwell, M. C., Bendixen, T., Crüwell, S., & Ioannidis, J. P. (2020). An empirical assessment of transparency and reproducibility-related research practices in the social sciences (2014–2017). Royal Society Open Science, 7(2), 190806.](https://drive.google.com/file/d/1GuTsF8O3fILF52vX0QQEy7lzeQrr2pyD/view?usp=sharing){:target="_blank" rel="noopener"}
+
+### Final Project
+* You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
+* As part of this project, you will get to analyze real classroom data from a data science course, engage with research articles, and report your findings in a group  presentation during finals week. Attendance and participation in the final project showcase is mandatory and will count toward the final project grade.
 
 ## Schedule
 
