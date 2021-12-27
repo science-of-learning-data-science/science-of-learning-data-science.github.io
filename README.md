@@ -108,8 +108,8 @@ You can always find the latest information about this class on the course websit
 
 | | **CourseKata (before class)** | **Labs (in class)** | **Papers (before class)** | **Project (in class)** |
 | ----- | ----- | ----- | ----- | ----- |
-| Week 1 (Jan 7) | Chapters 0, 1, 2 | Lab 1: Exploring data (due 1/14) | - | - |  
-| Week 2 (Jan 14) | Chapters 3, 4| Lab 2: Visualizing data (due 1/21) | - | - |
+| Week 1 (Jan 7) **REMOTE**| Chapters 0, 1, 2 | Lab 1: Exploring data (due 1/14) | - | - |  
+| Week 2 (Jan 14) **REMOTE**| Chapters 3, 4| Lab 2: Visualizing data (due 1/21) | - | - |
 | Week 3 (Jan 21) **REMOTE** | - | - | Theme 1: Graph comprehension | Milestone 1: Explore & visualize data (due 1/28) | 
 | Week 4 (Jan 28) | Chapters 5, 6, 9| Lab 3: Re-sampling data (due 2/4) | - | - |
 | Week 5 (Feb 4) **REMOTE** | - | - | Theme 2: Reasoning about DGPs | Milestone 2: Study preregistration (due 2/11) | 
