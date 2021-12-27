@@ -3,7 +3,7 @@
 
 | **Quarter**| **Lecture** | **Lab** | **Location** | 
 | ------ | ----- | ----- | ----- |
-| Winter 2022 | Fridays 9:30AM-11:30AM  | Fridays 11:30AM-12:20PM | Mandler Hall 1539 |
+| Winter 2022 | Fridays 9:30AM-11:30AM  | Fridays 11:30AM-12:20PM | Mandler Hall 1539 or [Zoom](https://ucsd.zoom.us/j/96611149421) |
 
 | **Name** | **Role** | **Email** | **Office Hours** | **Office**
 | ------ | ----- | ----- | ----- |
@@ -53,7 +53,7 @@ Click this [URL to join the course Slack workspace using your UCSD email address
 Our lab assignments will be distributed via [DataHub](https://datahub.ucsd.edu/), a service hosted by UCSD to make it easier to use [Jupyter notebooks](https://jupyter.org/) without having to install any new software on your computer.
 
 ### Zoom (for remote classes)
-While we will be meeting for class in person by default, it is possible that we may need to hold some classes remotely. When class is remote, your experience will be enhanced by being able to use a laptop/desktop equipped with a microphone/camera, and being able to log in from a quiet place where you are able to speak & hear your classmates. If you have any concerns about being able to participate remotely, please let the Instructor know. 
+While we will be meeting for class in person by defaultwhen campus COVID-19 guidelines permit, we may need to hold some classes remotely. Join the course Zoom room by [clicking this URL](https://ucsd.zoom.us/j/96611149421). When class is remote, your experience will be enhanced by being able to use a laptop/desktop equipped with a microphone/camera, and being able to log in from a quiet place where you are able to speak & hear your classmates. If you have any concerns about being able to participate remotely, please let the Instructor know. 
 
 ### Website (you are already here!)
 You can always find the latest information about this class on the course website: [https://science-of-learning-data-science.github.io/](https://science-of-learning-data-science.github.io/). 
