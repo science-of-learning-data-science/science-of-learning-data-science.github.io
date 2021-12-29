@@ -8,7 +8,8 @@
 | **Name** | **Role** | **Email** | **Office Hours** | **Office**
 | ------ | ----- | ----- | ----- |
 | Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM | McGill 5141 |
-| Keeshia Kamura | TA | TBD | TBD | TBD |
+| Keeshia Kamura | TA | skamura at ucsd.edu | Wednesdays 12PM-1PM | TBD |
+| Zoe Tait | TA | ztait at ucsd.edu | TBD | TBD |
 
 ## Why take this course?
 
