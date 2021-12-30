@@ -23,7 +23,9 @@ Each week you will have come prepared by having completed the assigned CourseKat
 
 ## What kind of preparation is expected for this course?
 
-There were no formal prerequisites listed for this course, but that was an oversight on my part. It is generally expected that you have already taken PSYC 60: Introduction to Statistics (or equivalent) and PSYC 70: Research Methods (or equivalent). No prior programming experience in R or any other programming language is necessary. Regardless of what level of previous experience you have with statistics, data science, and/or programming, you will likely have a more rewarding experience if you are coming to class ready to be challenged, a willingness to invest time to learn from one another, and are genuinely interested in data science and/or how people learn.
+There were no formal prerequisites listed for this course, but that was an oversight. It is generally expected that you have already taken PSYC 60: Introduction to Statistics (or equivalent) and PSYC 70: Research Methods (or equivalent). However, if you happened to have previously taken PSYC 60 with Dr. Fan in Spring 2021, please reach out to the Instructor for ideas about how to proceed. 
+
+No prior programming experience in R or any other programming language is necessary. Regardless of what level of previous experience you have with statistics, data science, and/or programming, you will likely have a more rewarding experience if you are coming to class ready to be challenged, a willingness to invest time to learn from one another, and are genuinely interested in data science and/or how people learn.
 
 ## What happens after you finish this course? 
 
