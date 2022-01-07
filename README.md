@@ -8,8 +8,8 @@
 | **Name** | **Role** | **Email** | **Office Hours** | **Office**
 | ------ | ----- | ----- | ----- |
 | Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM | McGill 5141 or [Zoom](https://ucsd.zoom.us/my/jefan) |
-| Keeshia Kamura | TA | skamura at ucsd.edu | Wednesdays 12PM-1PM | TBD |
-| Zoe Tait | TA | ztait at ucsd.edu | Wednesdays 11AM-12PM | [Zoom](https://ucsd.zoom.us/j/97985133875) |
+| Keeshia Kamura | TA | skamura at ucsd.edu | Wednesdays 12PM-1PM | [Zoom]( https://ucsd.zoom.us/j/93117673554) |
+| Zoe Tait | TA | ztait at ucsd.edu | Thursdays 11AM-12PM | [Zoom](https://ucsd.zoom.us/j/97985133875) |
 
 ## Why take this course?
 
@@ -53,7 +53,8 @@ You will be assigned modules from a free online textbook called CourseKata to co
 Click this [URL to join the course Slack workspace using your UCSD email address.](https://join.slack.com/t/ucsd-g7h5559/shared_invite/zt-zky7ahpt-N1YA6mzRUE1e8LtVouSf0g)
 
 ### DataHub (for lab assignments)
-Our lab assignments will be distributed via [DataHub](https://datahub.ucsd.edu/), a service hosted by UCSD to make it easier to use [Jupyter notebooks](https://jupyter.org/) without having to install any new software on your computer.
+You will be completing lab assignments using [DataHub](https://datahub.ucsd.edu/), a service hosted by UCSD to make it easier to use [Jupyter notebooks](https://jupyter.org/) without having to install any new software on your computer.
+These labs are available to download via our [course GitHub page](https://github.com/science-of-learning-data-science/solds-lab-release). Here are [instructions](https://docs.google.com/document/d/1x2xL8ZDwpgEWSP7GWJmJlQ0-po4avzws9ICJaI18VwY/edit?usp=sharing) for how to download these labs and upload them to Datahub to work on them during class. 
 
 ### Zoom (for remote classes)
 While we will be meeting for class in person by defaultwhen campus COVID-19 guidelines permit, we may need to hold some classes remotely. Join the course Zoom room by [clicking this URL](https://ucsd.zoom.us/j/96611149421). When class is remote, your experience will be enhanced by being able to use a laptop/desktop equipped with a microphone/camera, and being able to log in from a quiet place where you are able to speak & hear your classmates. If you have any concerns about being able to participate remotely, please let the Instructor know. 
@@ -72,7 +73,7 @@ You can always find the latest information about this class on the course websit
 ### Lab Assignments
 * Most of our synchronous class time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the Coursekata reading that was assigned for that week.
 * Most of our synchronous 'lecture' time will be spent working in small groups to work on lab assignments that allow you to practice the concepts and skills covered in the CourseKata modules assigned for that day.
-* All parts of each lab must be submitted via DataHub by 11:59pm PT on the due date listed on the course schedule to receive full credit.
+* All parts of each lab must be submitted via Canvas (Lab 1) or via DataHub (Labs 2-5) by 11:59pm PT on the due date listed on the course schedule to receive full credit. Before submitting your lab, please make sure that your lab runs "top to bottom" without any errors.
 * There will be no extensions for lab assignments. If you miss a lab deadline but would like to earn credit, submit the lab late. Late lab submissions will earn a maximum score of 50% (regardless of how late).
 * On very rare occasions, excused late submissions may be accepted if there is a medical/family emergency or bona fide religious conflict. Requests to submit these assignments late without penalty must be accompanied by documentation sent via email to Dr. Fan.
 * Lab assignments will be graded for completion and accuracy; however, demonstration of effort during class can attending your TA’s office hours may positively impact your lab grade, even when there are inaccuracies.
