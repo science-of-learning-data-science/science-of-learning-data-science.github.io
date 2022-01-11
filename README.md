@@ -7,7 +7,7 @@
 
 | **Name** | **Role** | **Email** | **Office Hours** | **Office**
 | ------ | ----- | ----- | ----- |
-| Prof. Judith Fan | Instructor | jefan at ucsd.edu | Wednesdays 9AM-9:30AM | McGill 5141 or [Zoom](https://ucsd.zoom.us/my/jefan) |
+| Prof. Judith Fan | Instructor | jefan at ucsd.edu | Mondays 9:15AM-10AM | McGill 5141 or [Zoom](https://ucsd.zoom.us/my/jefan) |
 | Keeshia Kamura | TA | skamura at ucsd.edu | Wednesdays 12PM-1PM | [Zoom]( https://ucsd.zoom.us/j/93117673554) |
 | Zoe Tait | TA | ztait at ucsd.edu | Thursdays 11AM-12PM | [Zoom](https://ucsd.zoom.us/j/97985133875) |
 
