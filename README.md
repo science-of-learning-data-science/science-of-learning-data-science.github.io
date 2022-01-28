@@ -94,7 +94,7 @@ You can always find the latest information about this class on the course websit
 
 #### Theme 2: Reasoning about data-generating processes (Feb. 4)
 * [Tintle, N., Chance, B., Cobb, G., Roy, S., Swanson, T., & VanderStoep, J. (2015). Combating anti-statistical thinking using simulation-based methods throughout the undergraduate curriculum. The American Statistician, 69(4), 362-370.](https://drive.google.com/open?id=1HchVLAZGsWce2vZqwoWiRifL3hE4a5ta&authuser=jefan%40ucsd.edu&usp=drive_fs){:target="_blank" rel="noopener"}
-* [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://link.springer.com/content/pdf/10.1007/978-3-030-03472-6_1.pdf){:target="_blank" rel="noopener"}
+* [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://drive.google.com/file/d/1Ga_CgoNCjLxc5DicAM67X9wLp8dzSmGy/view?usp=sharing){:target="_blank" rel="noopener"}
 
 #### Theme 3: Teaching and learning model-based reasoning (Feb. 18)
 * [Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2020). Modeling First: Applying Learning Science to the Teaching of Introductory Statistics. Journal of Statistics Education, 1-23.](https://uclatall.com/pdfs/Son%20et%20al.%202020%20Modeling%20First%20PREPRINT.pdf){:target="_blank" rel="noopener"}
