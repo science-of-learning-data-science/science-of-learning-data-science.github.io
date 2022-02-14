@@ -97,7 +97,7 @@ You can always find the latest information about this class on the course websit
 * [Budgett, S., & Pfannkuch, M. (2019). Visualizing chance: tackling conditional probability misconceptions. In Topics and Trends in Current Statistics Education Research (pp. 3-25). Springer, Cham.](https://drive.google.com/file/d/1Ga_CgoNCjLxc5DicAM67X9wLp8dzSmGy/view?usp=sharing){:target="_blank" rel="noopener"}
 
 #### Theme 3: Teaching and learning model-based reasoning (Feb. 18)
-* [Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2020). Modeling First: Applying Learning Science to the Teaching of Introductory Statistics. Journal of Statistics Education, 1-23.](https://uclatall.com/pdfs/Son%20et%20al.%202020%20Modeling%20First%20PREPRINT.pdf){:target="_blank" rel="noopener"}
+* [Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2020). Modeling First: Applying Learning Science to the Teaching of Introductory Statistics. Journal of Statistics Education, 1-23.](hhttps://uclatall.com/pdfs/Modeling%20First%20Applying%20Learning%20Science%20to%20the%20Teaching%20of%20Introductory%20Statistics.pdf){:target="_blank" rel="noopener"}
 * [Rodgers, J. L. (2010). The epistemology of mathematical and statistical modeling: a quiet methodological revolution. American Psychologist, 65(1), 1.](https://drive.google.com/file/d/1GZaQj49xLohgmeWVxz6qt_LxOypnpP3j/view?usp=sharing){:target="_blank" rel="noopener"}
 
 #### Theme 4: Open and reproducible science (Mar. 4)
