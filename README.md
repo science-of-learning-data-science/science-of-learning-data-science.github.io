@@ -141,6 +141,11 @@ Your grade will be calculated based on:
 and so on (rounding to the nearest whole number).  We may curve up at the bottom of the scale depending on the distribution, but I will not curve down (i.e. 87 will never be worse than B+).
 
 
+## Resources
+
+* [R Cheatsheet](https://drive.google.com/file/d/1Hkg4ra94rn4vV8RzizYtbdeqH6ZHAoiZ/view?usp=sharing)
+* [Chaining Operations using R](https://psyc60.github.io/assets/html/lecture08_chaining_demo.html)
+
 ## What We Expect From Everyone
 
 **Values we share:**
