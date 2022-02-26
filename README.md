@@ -107,6 +107,7 @@ You can always find the latest information about this class on the course websit
 ### Final Project
 * You will also have the opportunity to complete a group project in lieu of a final exam. You can expect to do much of this work during class. 
 * As part of this project, you will get to analyze real classroom data from a data science course, engage with research articles, and report your findings in a group  presentation during finals week. Attendance and participation in the final project showcase is mandatory and will count toward the final project grade.
+* [**LINK TO FINAL PROJECT POSTER TEMPLATE**](https://docs.google.com/presentation/d/1-nhJNJaRUu9RaubdA7QdK5ZsBxsP5gbuXz8RBX4aCzo/edit?usp=sharing)
 
 ## Schedule
 
@@ -146,6 +147,7 @@ and so on (rounding to the nearest whole number).  We may curve up at the bottom
 * [Keeshia Kamura's Recommended Resources](https://docs.google.com/document/d/1Rr8AvoHnJv8T_J-BzQ4qGCzha5thEfiqCRsKTbZhX3A/edit?usp=sharing)
 * [R Cheatsheet](https://drive.google.com/file/d/1Hkg4ra94rn4vV8RzizYtbdeqH6ZHAoiZ/view?usp=sharing)
 * [Chaining Operations using R](https://psyc60.github.io/assets/html/lecture08_chaining_demo.html)
+* [**LINK TO FINAL PROJECT POSTER TEMPLATE**](https://docs.google.com/presentation/d/1-nhJNJaRUu9RaubdA7QdK5ZsBxsP5gbuXz8RBX4aCzo/edit?usp=sharing)
 
 ## What We Expect From Everyone
 
