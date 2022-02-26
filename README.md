@@ -143,6 +143,7 @@ and so on (rounding to the nearest whole number).  We may curve up at the bottom
 
 ## Resources
 
+* [Keeshia Kamura's Recommended Resources](https://docs.google.com/document/d/1Rr8AvoHnJv8T_J-BzQ4qGCzha5thEfiqCRsKTbZhX3A/edit?usp=sharing)
 * [R Cheatsheet](https://drive.google.com/file/d/1Hkg4ra94rn4vV8RzizYtbdeqH6ZHAoiZ/view?usp=sharing)
 * [Chaining Operations using R](https://psyc60.github.io/assets/html/lecture08_chaining_demo.html)
 
